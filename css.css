@@ -1,0 +1,151 @@
+body, a, a:link, a:visited, a:active{
+margin: 0;
+padding: 0;
+text-decoration: none;
+color: white;
+}
+
+.main{
+    margin: 0;
+    padding: 0 5% 0 5%;
+    background-image: url(../img/home_bckgrd.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    box-sizing: border-box;
+    background-attachment: fixed;
+}
+
+.
+
+.menu{
+    padding: 5px 0 5px 0;
+    text-align: right;
+}
+
+.logo ul{
+text-align: center !important;
+vertical-align: middle !important;
+}
+
+.logo ul li{
+    display: inline;
+}
+
+.logo ul li:hover{
+    background-color: rgba(184, 134, 11, 0.8);
+    color: white;
+}
+
+.logo ul li a{
+    letter-spacing: 10px;
+}
+
+.book{
+    border: 1px solid white;
+    padding: 1%;
+}
+
+.content{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+p.txt-large{
+    font-size: 6em;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgba(0,0,0, 0.4);
+}
+
+/* General */
+.txt-white{
+    color: white;
+}
+.ft-right{
+    float: right;
+}
+
+.logo{
+    padding-top: 2%;
+}
+.txt-20{
+    font-size: 1.3em;
+}
+
+.txt-21{
+    font-size: 2.5em;
+}
+
+.pd-top-6{
+    padding-top: 15%;
+    box-sizing: border-box;
+}
+
+.full-hr{
+    width: 100%;
+}
+
+
+/*container-2*/
+#container-2{
+    margin: 0;
+    padding: 0 5% 0 5%;
+    box-sizing: border-box;
+}
+
+#menu a{
+    color: black;
+    padding: 1%;
+}
+
+#menu ul{
+    text-align: right !important;
+    vertical-align: middle !important;
+}
+
+#menu ul li{
+    display: inline;
+    padding: 1%;
+}
+
+#menu ul li:hover{
+    color: white;
+    background-color: darkgoldenrod;
+}
+
+#menu ul li a{
+    letter-spacing: 10px;
+    color: black;
+}
+
+
+.first{
+    display: flex;
+    color: black !important;
+    
+
+}
+
+.first.one{
+    clear: left;
+}
+
+.first.one p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.first.two{
+    clear: right;  
+}
+
+
+
+
+
